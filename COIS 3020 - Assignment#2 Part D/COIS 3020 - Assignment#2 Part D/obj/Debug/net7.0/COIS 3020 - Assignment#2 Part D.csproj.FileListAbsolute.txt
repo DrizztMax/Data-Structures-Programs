@@ -1,0 +1,14 @@
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\bin\Debug\net7.0\COIS 3020 - Assignment#2 Part D.exe
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\bin\Debug\net7.0\COIS 3020 - Assignment#2 Part D.deps.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\bin\Debug\net7.0\COIS 3020 - Assignment#2 Part D.runtimeconfig.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\bin\Debug\net7.0\COIS 3020 - Assignment#2 Part D.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\bin\Debug\net7.0\COIS 3020 - Assignment#2 Part D.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.AssemblyInfoInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.AssemblyInfo.cs
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.csproj.CoreCompileInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\refint\COIS 3020 - Assignment#2 Part D.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\COIS 3020 - Assignment#2 Part D.genruntimeconfig.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment#2 Part D\COIS 3020 - Assignment#2 Part D\obj\Debug\net7.0\ref\COIS 3020 - Assignment#2 Part D.dll

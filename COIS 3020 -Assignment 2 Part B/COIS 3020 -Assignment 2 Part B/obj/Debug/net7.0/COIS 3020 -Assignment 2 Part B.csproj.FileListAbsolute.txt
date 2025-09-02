@@ -1,0 +1,14 @@
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\bin\Debug\net7.0\COIS 3020 -Assignment 2 Part B.exe
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\bin\Debug\net7.0\COIS 3020 -Assignment 2 Part B.deps.json
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\bin\Debug\net7.0\COIS 3020 -Assignment 2 Part B.runtimeconfig.json
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\bin\Debug\net7.0\COIS 3020 -Assignment 2 Part B.dll
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\bin\Debug\net7.0\COIS 3020 -Assignment 2 Part B.pdb
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.AssemblyInfoInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.AssemblyInfo.cs
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.csproj.CoreCompileInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.dll
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\refint\COIS 3020 -Assignment 2 Part B.dll
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.pdb
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\COIS 3020 -Assignment 2 Part B.genruntimeconfig.cache
+C:\Users\drizz\source\repos\COIS 3020 -Assignment 2 Part B\COIS 3020 -Assignment 2 Part B\obj\Debug\net7.0\ref\COIS 3020 -Assignment 2 Part B.dll
