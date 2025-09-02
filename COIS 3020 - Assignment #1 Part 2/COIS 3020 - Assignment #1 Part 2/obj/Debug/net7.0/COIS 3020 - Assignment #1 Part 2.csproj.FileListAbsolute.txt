@@ -1,0 +1,14 @@
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\bin\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.exe
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\bin\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.deps.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\bin\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.runtimeconfig.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\bin\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\bin\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.AssemblyInfoInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.AssemblyInfo.cs
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.csproj.CoreCompileInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\refint\COIS 3020 - Assignment #1 Part 2.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\COIS 3020 - Assignment #1 Part 2.genruntimeconfig.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1 Part 2\COIS 3020 - Assignment #1 Part 2\obj\Debug\net7.0\ref\COIS 3020 - Assignment #1 Part 2.dll

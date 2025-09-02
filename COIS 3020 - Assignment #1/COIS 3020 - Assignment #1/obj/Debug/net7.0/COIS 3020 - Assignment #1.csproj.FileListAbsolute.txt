@@ -1,0 +1,14 @@
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\bin\Debug\net7.0\COIS 3020 - Assignment #1.exe
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\bin\Debug\net7.0\COIS 3020 - Assignment #1.deps.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\bin\Debug\net7.0\COIS 3020 - Assignment #1.runtimeconfig.json
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\bin\Debug\net7.0\COIS 3020 - Assignment #1.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\bin\Debug\net7.0\COIS 3020 - Assignment #1.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.AssemblyInfoInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.AssemblyInfo.cs
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.csproj.CoreCompileInputs.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\refint\COIS 3020 - Assignment #1.dll
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.pdb
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\COIS 3020 - Assignment #1.genruntimeconfig.cache
+C:\Users\drizz\source\repos\COIS 3020 - Assignment #1\COIS 3020 - Assignment #1\obj\Debug\net7.0\ref\COIS 3020 - Assignment #1.dll
