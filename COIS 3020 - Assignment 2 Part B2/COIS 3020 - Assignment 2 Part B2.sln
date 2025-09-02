@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COIS 3020 - Assignment 2 Part B2", "COIS 3020 - Assignment 2 Part B2\COIS 3020 - Assignment 2 Part B2.csproj", "{DF997579-F883-462E-85F7-A1C6CE510854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF997579-F883-462E-85F7-A1C6CE510854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF997579-F883-462E-85F7-A1C6CE510854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF997579-F883-462E-85F7-A1C6CE510854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF997579-F883-462E-85F7-A1C6CE510854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7227198-665E-4F4B-A713-2A2CC12737F3}
+	EndGlobalSection
+EndGlobal
